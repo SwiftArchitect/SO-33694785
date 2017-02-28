@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Localized Label"; ObjectID = "0UU-N2-zGF"; */
+"0UU-N2-zGF.text" = "Je suis un UILabel";
+
+/* Class = "UITextField"; placeholder = "Localized Placeholder"; ObjectID = "bi6-yN-rDs"; */
+"bi6-yN-rDs.placeholder" = "Je suis un UITextField";
+
+/* Class = "UIButton"; normalTitle = "Localized Button"; ObjectID = "iaS-bh-8lQ"; */
+"iaS-bh-8lQ.normalTitle" = "Je suis un UIButton";
