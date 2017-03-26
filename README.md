@@ -1,10 +1,12 @@
 # Different storyboard localization per target on iOS
 
+![preview](https://i.stack.imgur.com/3pPyR.png)
+
 ---
 
 ### Stack Overflow Question 33694785
 
-Xcode project & source code related to [Shared Storyboard across targets](http://stackoverflow.com/a/33791181/2181522) anwser.
+Xcode project & source code related to [Shared Storyboard across targets](https://stackoverflow.com/questions/33694785/different-storyboard-localization-per-target/33791181#33791181) answer.
 
 ---
 
@@ -16,6 +18,6 @@ Xcode project & source code related to [Shared Storyboard across targets](http:/
 
 **References:**
 
-- [SO-33694785](http://stackoverflow.com/questions/33694785/different-storyboard-localization-per-target) on Stack Overflow
+- Question [33694785](https://stackoverflow.com/questions/33694785) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
